@@ -65,4 +65,55 @@ header{
 span{
     display: block;
     line-height: 1.6;
+    padding: 10px;
+}
+
+/* tipologia */
+
+.editorial::after{
+    content: "Editorial";
+    background-color: cyan;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+.q1goals::after{
+    content: "Q1 Goals";
+    background-color: purple;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+.recruiting::after{
+    content: "Recruiting";
+    background-color: lightgreen;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+.mobile::after{
+    content: "Mobile";
+    background-color: orange;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+.website::after{
+    content: "Website";
+    background-color: pink;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+.sales::after{
+    content: "Sales";
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
 }
