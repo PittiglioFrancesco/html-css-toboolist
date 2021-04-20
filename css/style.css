@@ -43,3 +43,26 @@ header{
     color: lightgray;
     padding: 5px;
 }
+
+/* lista */
+
+.lista{
+    background-color: white;
+    margin-top: 3px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px 30px 50px;
+}
+
+.fatto::before{
+    content: "\2713  " ;
+}
+
+.infatto::before{
+    content: "\2715  ";
+}
+
+span{
+    display: block;
+    line-height: 1.6;
+}
