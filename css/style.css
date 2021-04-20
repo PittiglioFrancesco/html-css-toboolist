@@ -1,3 +1,19 @@
 body {
     background-color: lightgray;
 }
+
+/* Header */
+
+header{
+    background-color: white;
+}
+
+.img{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
