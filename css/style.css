@@ -17,3 +17,29 @@ header{
     display: inline-block;
     vertical-align: middle;
 }
+
+/* Bottoni */
+
+.bottoni {
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px 30px 10px;
+}
+
+.tasto1 {
+    border-radius: 5px;
+    border: 1px solid cyan;
+    background-color: cyan;
+    color: white;
+    padding: 5px;
+}
+
+.tasto2{
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    background-color: white;
+    color: lightgray;
+    padding: 5px;
+}
