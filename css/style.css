@@ -28,7 +28,7 @@ header{
     margin-top: 50px;
     margin-left: 25%;
     margin-right: 25%;
-    padding: 10px 30px 10px;
+    padding: 20px;
 }
 
 .tasto1 {
@@ -36,7 +36,8 @@ header{
     border: 1px solid lightskyblue;
     background-color: lightskyblue;
     color: white;
-    padding: 5px;
+    padding: 5px ;
+    cursor: pointer;
 }
 
 .tasto2{
@@ -45,6 +46,7 @@ header{
     background-color: white;
     color: lightgray;
     padding: 5px;
+    cursor: pointer;
 }
 
 /* lista */
